@@ -1,1 +1,1 @@
-https://github.com/RishabhChopra223/simon-says-game/
+https://rishabhchopra223.github.io/simon-says-game/
